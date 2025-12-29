@@ -1,4 +1,3 @@
-[![MasterHead]]
 # 👋 Hi there, I'm REAM Borey
 
 Welcome to my GitHub! I'm a **Full-Stack Web Developer** specializing in the **MERN Stack (MongoDB, Next.js, React.js, Java Spring Boot, FastAPI)** and passionate about building **scalable, performant, and user-friendly web applications**. I bring together **frontend precision** and **backend logic** to develop complete solutions that solve real-world problems.
