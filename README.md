@@ -1,4 +1,3 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQHfiel5HGfElQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732219831808?e=1737590400&v=beta&t=qosNqTCprWT6Ilo4Fv6GM8RpBJJyLCKoQA8DcEpIlGQ)]
 # 👋 Hi there, I'm REAM Borey
 
 Welcome to my GitHub! I'm a **Full-Stack Web Developer** specializing in the **MERN Stack (MongoDB, Next.js, React.js, Java Spring Boot, FastAPI)** and passionate about building **scalable, performant, and user-friendly web applications**. I bring together **frontend precision** and **backend logic** to develop complete solutions that solve real-world problems.
