@@ -1,3 +1,47 @@
+That link is a direct URL to an image hosted on LinkedIn’s media servers. Specifically, it points to a LinkedIn profile background image (the large header banner you see at the top of a LinkedIn profile).
+
+What It Is
+
+Location: LinkedIn’s CDN (content delivery network) — media.licdn.com
+
+Type: Profile background image
+
+Usage: Often used as cover photo in LinkedIn profiles
+
+File: Likely a JPEG image
+
+What It Is Not
+
+It is not a webpage.
+
+It does not contain text or a site you can interact with.
+
+It is not a downloadable document page — just an image.
+
+How You Can Use It
+
+You can paste that URL directly into any browser, and it will show the image.
+
+Example:
+
+https://media.licdn.com/dms/image/v2/D4D16AQHfiel5HGfElQ/profile-displaybackgroundimage-shrink_350_1400/0/1732219831808?e=1737590400&v=beta&t=qosNqTCprWT6Ilo4Fv6GM8RpBJJyLCKoQA8DcEpIlGQ
+
+If You Want to Save It
+
+Open the link in your browser
+
+Right-click (or long-tap)
+
+Choose Save Image As…
+
+Notes
+
+The URL has an expiration timestamp (e=1737590400) and version tag (v=beta). After expiration, LinkedIn may stop serving the image.
+
+This URL is typically public but optimized for LinkedIn pages rather than direct web usage.
+
+If you want help extracting or converting it to a downloadable file or embedding it somewhere (e.g., GitHub README), tell me where you plan to use it.
+
 # 👋 Hi there, I'm REAM Borey
 
 Welcome to my GitHub! I'm a **Full-Stack Web Developer** specializing in the **MERN Stack (MongoDB, Next.js, React.js, Java Spring Boot, FastAPI)** and passionate about building **scalable, performant, and user-friendly web applications**. I bring together **frontend precision** and **backend logic** to develop complete solutions that solve real-world problems.
